@@ -1,0 +1,59 @@
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: lightcyan;
+    width: 150px;
+    height: 200px;
+    border: 15px solid lightskyblue;
+    padding: 10px;
+    margin: 20px;
+  }
+  .acertou {
+    text-align: center;
+    color: lightskyblue;
+    background-color: #4affd2;
+    width: 150px;
+    height: 200px;
+    border: 15px solid lightskyblue;
+    padding: 10px;
+    margin: 20px;
+  }
+  .errou {
+    text-align: center;
+    
+    color: white;
+    background-color: #ff4a8f;
+    width: 150px;
+    height: 200px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+  }
+
+  #resposta {
+    text-align: center;
+
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  body {
+    background-color: lightcyan;
+    text-align: center;
+  }
+
+  button {
+    background-color: lightskyblue;
+  }
